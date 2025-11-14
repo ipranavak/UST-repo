@@ -11,4 +11,8 @@ public static void main(String[] args) {
 	obj.disp(77);
 	System.out.println("Instance  variable is"+obj.x);
 }
+public static void div(int x2, int y) {
+	// TODO Auto-generated method stub
+	
+}
 }

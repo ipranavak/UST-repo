@@ -55,5 +55,13 @@ class Square implements Shape{
 	}
 	}
 }
+class Perform {
+	public static void main(String[] args) {
+		Triangle T=new Triangle();
+		T.draw();
+		Square S=new Square();
+		S.draw();
+	}
+}
 
 

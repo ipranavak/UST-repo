@@ -1,6 +1,6 @@
 package com.ust.srs.bean;
 
-public class PassengerBean {
+public class PassengerBean {//PARAMETERIZED CONSTRUCTOR
 	private String reservationID;
 	private String scheduleID;
 	private String name;
